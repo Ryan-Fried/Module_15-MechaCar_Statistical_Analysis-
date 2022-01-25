@@ -1,6 +1,6 @@
 # Module_15-MechaCar_Statistical_Analysis-
 
-## Deliverable 1: Linear Regression to Predict MPG
+## Linear Regression to Predict MPG
 ### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 Vehicle length and Ground Clearance provided a non-random amount of variance to the MPG as these were the only variables with a p-value of less than 0.05.
 
